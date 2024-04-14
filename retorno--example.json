@@ -1,0 +1,14 @@
+{
+    "CNPJ:00.000.000/0001-00": {
+        "EC:0000000000": "SOLUCAO:Checkout Cielo",
+        "EC:0000000001": "SOLUCAO:Checkout Cielo",
+        "EC:0000000002": "SOLUCAO:NA",
+        "EC:0000000003": "SOLUCAO:API 3.0",
+        "EC:0000000004": "SOLUCAO:NA"
+    },
+    "CNPJ:00.000.000/0001-01": {
+        "EC:0000000000": "SOLUCAO:API 3.0",
+        "EC:0000000002": "SOLUCAO:Checkout Cielo",
+        "EC:0000000004": "SOLUCAO:NA"
+    }
+}
